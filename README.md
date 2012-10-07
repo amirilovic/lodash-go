@@ -161,7 +161,7 @@ On peut maintenant créer et éditer des posts dans l'administration
 </code>
 </pre>
 
-+ chaque route est une expression régulière à laquelle est associé une expression
++ chaque route est une expression régulière à laquelle est associée une expression
   + Exemple : afficher la liste de articles : 
   <pre><code>
       urlpatterns = patterns('',
@@ -173,6 +173,8 @@ On peut maintenant créer et éditer des posts dans l'administration
   est une route qui est ensuite rendue via un template nommé blog.html dans le dossier templates
 
 #### Templates 
-les templates sont définies dans le dossier "templates" d'une application
++ les templates sont définies dans le dossier "templates" d'une application
+  + https://docs.djangoproject.com/en/1.4/topics/templates/
+
 
 ### Déployer son application Django sur Heroku
