@@ -1,0 +1,5 @@
+Django==1.4.1
+PIL==1.1.7
+distribute==0.6.26
+django-taggit==0.9.3
+pygments==1.4

@@ -178,3 +178,10 @@ On peut maintenant créer et éditer des posts dans l'administration
 
 
 ### Déployer son application Django sur Heroku
++ sources  : https://devcenter.heroku.com/articles/django
+
+#### Créer une liste des dépendances du projet
+<code> pip freeze > requirements.txt</code>
+
+## Autres frameworks python
++ [Flash](http://flask.pocoo.org/)
