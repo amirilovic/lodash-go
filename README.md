@@ -183,5 +183,18 @@ On peut maintenant créer et éditer des posts dans l'administration
 #### Créer une liste des dépendances du projet
 <code> pip freeze > requirements.txt</code>
 
+##### Utiliser le CLI heroku
+> tips : enregistrer une clef SSH publique
+> heroku keys:add (https://devcenter.heroku.com/articles/keys)
+
 ## Autres frameworks python
 + [Flash](http://flask.pocoo.org/)
+
+### FAQ
+
+#### Installer un driver mysql pour python
++ pour windows : http://sourceforge.net/projects/mysql-python/
+  + http://home.netimperia.com/files/misc/MySQL-python-1.2.2.win32-py2.6.exe
+
+#### Installer l'interface python postgresql
++ pour windows : télécharger l'un des installeurs
